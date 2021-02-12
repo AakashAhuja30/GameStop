@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/GameStop/static/js/main.a1c67989.chunk.js",
-    "main.js.map": "/GameStop/static/js/main.a1c67989.chunk.js.map",
+    "main.js": "/GameStop/static/js/main.101b8547.chunk.js",
+    "main.js.map": "/GameStop/static/js/main.101b8547.chunk.js.map",
     "runtime-main.js": "/GameStop/static/js/runtime-main.c3b78301.js",
     "runtime-main.js.map": "/GameStop/static/js/runtime-main.c3b78301.js.map",
     "static/js/2.e91c0140.chunk.js": "/GameStop/static/js/2.e91c0140.chunk.js",
@@ -21,6 +21,6 @@
   "entrypoints": [
     "static/js/runtime-main.c3b78301.js",
     "static/js/2.e91c0140.chunk.js",
-    "static/js/main.a1c67989.chunk.js"
+    "static/js/main.101b8547.chunk.js"
   ]
 }
