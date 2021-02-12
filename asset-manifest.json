@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/GameStop/static/js/main.a1c67989.chunk.js",
+    "main.js.map": "/GameStop/static/js/main.a1c67989.chunk.js.map",
+    "runtime-main.js": "/GameStop/static/js/runtime-main.c3b78301.js",
+    "runtime-main.js.map": "/GameStop/static/js/runtime-main.c3b78301.js.map",
+    "static/js/2.e91c0140.chunk.js": "/GameStop/static/js/2.e91c0140.chunk.js",
+    "static/js/2.e91c0140.chunk.js.map": "/GameStop/static/js/2.e91c0140.chunk.js.map",
+    "static/js/3.3f77ce76.chunk.js": "/GameStop/static/js/3.3f77ce76.chunk.js",
+    "static/js/3.3f77ce76.chunk.js.map": "/GameStop/static/js/3.3f77ce76.chunk.js.map",
+    "index.html": "/GameStop/index.html",
+    "static/js/2.e91c0140.chunk.js.LICENSE.txt": "/GameStop/static/js/2.e91c0140.chunk.js.LICENSE.txt",
+    "static/media/apple.5757c37e.svg": "/GameStop/static/media/apple.5757c37e.svg",
+    "static/media/gamepad.c9269ef5.svg": "/GameStop/static/media/gamepad.c9269ef5.svg",
+    "static/media/memoji.8715d61b.png": "/GameStop/static/media/memoji.8715d61b.png",
+    "static/media/nintendo.f579be04.svg": "/GameStop/static/media/nintendo.f579be04.svg",
+    "static/media/playstation.18cc4b9c.svg": "/GameStop/static/media/playstation.18cc4b9c.svg",
+    "static/media/steam.d7b8819f.svg": "/GameStop/static/media/steam.d7b8819f.svg",
+    "static/media/xbox.3e7db735.svg": "/GameStop/static/media/xbox.3e7db735.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3b78301.js",
+    "static/js/2.e91c0140.chunk.js",
+    "static/js/main.a1c67989.chunk.js"
+  ]
+}
